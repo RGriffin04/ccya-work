@@ -1,0 +1,24 @@
+
+.green{
+    color: green;
+}
+#red{
+    color: red;
+}
+#font1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#font2{
+    font-family: fantasy;
+}
+#space{
+    letter-spacing: 0.5rem ;
+}
+.big{
+    font-size: x-large;
+}
+#shadow1 {
+    text-shadow: red 0 -2px;
+    font-size: x-large;
+  }
+  

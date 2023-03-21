@@ -1,0 +1,15 @@
+.red { 
+    color: red;
+}
+
+.blue {
+    color: mediumturquoise;
+}
+
+.pink-div {
+    background-color: palevioletred;
+}
+
+.black-border {
+    border: 2px solid black;
+} 

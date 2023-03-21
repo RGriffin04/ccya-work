@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+body > footer{
+    background-color: cyan;
+}
+
+body > footer > p {
+    padding: 16px;
+    text-align: center;
+    color:rgb(123, 190, 231)
+}
+body{
+    background-color: green;
+}
+#logo{
+    margin: 0;
+    font-family: "Tilt Neon", sans-serif;
+}
+
+nav > ul{
+    list-style: none;
+}
+
+nav > ul > li > a {
+    text-decoration: none;
+}
+
+/* target a class using the period */
+.like-button{
+    background-color: cyan;
+    border: 1px solid black;
+    border-radius: 10px ;
+}
+
+.share-button{
+    background-color: cyan;
+    border: 1px solid black;
+    border-radius: 10px;
+}

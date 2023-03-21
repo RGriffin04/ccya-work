@@ -1,0 +1,6 @@
+
+
+const cities = ['dundee', 'perth', 'dunfermline', 'stirling', 'edinburgh', 'glasgow'];
+console.log(cities.length);
+
+console.log(cities[2]);
