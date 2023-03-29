@@ -86,6 +86,7 @@ form{
 
 .make-big{
   transition-duration: 1s;
+  margin-bottom: 3em;
 }
 .make-big:hover{
     font-weight: 900;
@@ -95,4 +96,7 @@ form{
     margin-top: 30px;
 }
 
+.bubbles{
+    margin-top: 2em;
+}
 /* anchors for buttons */
